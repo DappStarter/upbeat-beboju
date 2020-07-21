@@ -1,0 +1,9 @@
+{
+    "name": "vote me out of here",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true,
+        "/category/voting/ballot": true
+    }
+}
